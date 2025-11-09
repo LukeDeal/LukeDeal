@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**LukeDeal/LukeDeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learing GitHub
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on anything intresting 
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please don't
 - 😄 Pronouns: I don't participate here.
 - ⚡ Fun fact: I have no idea what I'm doing, but i'll work it out eventually 
--->
+
